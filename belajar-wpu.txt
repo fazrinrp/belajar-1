@@ -1,0 +1,5 @@
+Ini file pertama di github
+List yang perlu dipelajari:
+1. Github
+2. Statistics and Probability
+3. Data Science Tools
